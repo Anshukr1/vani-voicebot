@@ -1,0 +1,7 @@
+{
+  "name": "Vani - India News Voicebot",
+  "description": "An intelligent voicebot powered by Gemini Live API that delivers personalized, India-specific news briefings with real-time interruption handling.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
